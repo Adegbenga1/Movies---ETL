@@ -1,9 +1,12 @@
 ## Movies---ETL
 ##  Project Overview
+
      Create of an automated pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables with final transformations and 
      loading  the data into an existing PostgreSQL database.
+     
 ## Results
 ## Write an ETL function to read three data files 
+
      The ETL function was used to create  dataframes from Wikipedia JSON, the Kaggle metadata and MovieLens csv files.
     ![image](https://user-images.githubusercontent.com/70987568/130368010-d71eecfd-0431-47c5-8323-f527966229cd.png)
     ![image](https://user-images.githubusercontent.com/70987568/130368018-1b381050-d75e-4233-a2a1-7e304c48334c.png)
